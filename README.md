@@ -21,6 +21,38 @@ Download the APK from the repository's **Releases** section.
 
 Only download releases published by the official Project Kaithi repository owner.
 
+📲 Installation & Keyboard Setup
+
+1. Download and Install
+
+1. Open the "Latest Release" (https://github.com/Saket-1996/PROJECT-KAITHI/releases/latest).
+2. Download "Project-Kaithi-v1.0.apk".
+3. Install the APK on your Android device.
+4. If Google Play Protect prompts you, review the warning before proceeding.
+
+2. Enable Project Kaithi
+
+1. Open your Android Settings.
+2. Search for Input Method or Keyboard.
+3. Open the input method settings.
+4. Enable Project Kaithi.
+5. Confirm the system prompt.
+
+3. Select Project Kaithi
+
+1. Open any app where you can type.
+2. Open the keyboard selector.
+3. Select Project Kaithi.
+
+4. Start Typing
+
+- DIRECT: Type directly using Kaithi characters.
+- ROMAN: Type using Roman letters with Kaithi transliteration preview.
+- TRANSLATE: Access the translation interface.
+
+Screenshots
+
+Step-by-step installation and keyboard setup screenshots are available in ""docs/screenshots"" (docs/screenshots/).
 ## Screenshots
 
 Screenshots will be added here.
