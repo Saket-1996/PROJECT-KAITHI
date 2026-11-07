@@ -1,0 +1,11 @@
+PROJECT KAITHI — PROPRIETARY NOTICE
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]. All rights reserved.
+
+This repository distributes official Project Kaithi release binaries and project information only. The application's source code is not included.
+
+No permission is granted by this notice to copy, modify, reverse engineer, redistribute, sublicense, or create derivative works from the application, except where applicable law expressly permits otherwise or the copyright holder gives prior written permission.
+
+Project names, logos, screenshots, and other branding materials may also be protected. Do not use them in a way that implies endorsement or affiliation without permission.
+
+Replace [YEAR] and [COPYRIGHT HOLDER] with the correct details before publishing. This notice is a practical starting point, not legal advice.
